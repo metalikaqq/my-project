@@ -1,1 +1,3 @@
-const a = 20
+// git add .
+// git commit -m 'some message'
+// git push origin main
